@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const lockButton = document.getElementById('lock-button');
     const notesTextarea = document.getElementById('notes-textarea');
 
-    const PASSWORD = '394800';
+    const PASSWORD = '849373L';
 
     // Load saved notes from localStorage
     notesTextarea.value = localStorage.getItem('notes') || '';
